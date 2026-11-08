@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BettyWallet.ConsoleApp/BettyWallet.ConsoleApp.csproj" />
+    <Project Path="src/BettyWallet.Core/BettyWallet.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BettyWallet.Tests/BettyWallet.Tests.csproj" />
+  </Folder>
+</Solution>
